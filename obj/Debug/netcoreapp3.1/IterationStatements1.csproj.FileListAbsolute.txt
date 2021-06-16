@@ -1,0 +1,13 @@
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\bin\Debug\netcoreapp3.1\IterationStatements1.exe
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\bin\Debug\netcoreapp3.1\IterationStatements1.deps.json
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\bin\Debug\netcoreapp3.1\IterationStatements1.runtimeconfig.json
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\bin\Debug\netcoreapp3.1\IterationStatements1.runtimeconfig.dev.json
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\bin\Debug\netcoreapp3.1\IterationStatements1.dll
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\bin\Debug\netcoreapp3.1\IterationStatements1.pdb
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\obj\Debug\netcoreapp3.1\IterationStatements1.csproj.AssemblyReference.cache
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\obj\Debug\netcoreapp3.1\IterationStatements1.AssemblyInfoInputs.cache
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\obj\Debug\netcoreapp3.1\IterationStatements1.AssemblyInfo.cs
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\obj\Debug\netcoreapp3.1\IterationStatements1.csproj.CoreCompileInputs.cache
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\obj\Debug\netcoreapp3.1\IterationStatements1.dll
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\obj\Debug\netcoreapp3.1\IterationStatements1.pdb
+C:\Users\Tico-Kun\source\repos\IterationStatements1\IterationStatements1\obj\Debug\netcoreapp3.1\IterationStatements1.genruntimeconfig.cache
